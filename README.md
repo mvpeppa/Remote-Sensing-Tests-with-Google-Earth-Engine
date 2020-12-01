@@ -17,5 +17,5 @@ To run the test the following dependencies are required:
     (either using pip install "the library name", or with conda)
  
  A reminder:
- - to istall all necessary libraries inside the virtual environement you have created, e.g. gee as instructed in https://geemap.org/installation/.
+ - to install all necessary libraries inside the virtual environement you have created, e.g. gee as instructed in https://geemap.org/installation/.
 
