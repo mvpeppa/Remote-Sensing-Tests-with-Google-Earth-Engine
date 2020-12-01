@@ -19,3 +19,4 @@ To run the test the following dependencies are required:
  A reminder:
  - to install all necessary libraries inside the virtual environement you have created, e.g. gee as instructed in https://geemap.org/installation/.
 
+This work is still ongoing and will be updated frequently. If you wish to use the scripts for your own experiments make sure you acknowledge my work till now.
