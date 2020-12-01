@@ -9,4 +9,13 @@ To run the test the following dependencies are required:
 
 - To have installed python 3 (check here: https://www.python.org/downloads/windows/)
 - to have installed Earth Engine and geemap (check here: https://geemap.org/installation/)
-- to have installed numpy, matplotlib
+- to have installed 
+    numpy,
+    matplotlib,
+    skimage and
+    pandas 
+    (either using pip install "the library name", or with conda)
+ 
+ A reminder:
+ - to istall all necessary libraries inside the virtual environement you have created, e.g. gee as instructed in https://geemap.org/installation/.
+
